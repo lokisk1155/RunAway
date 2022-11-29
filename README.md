@@ -1,4 +1,4 @@
-# RUN! [Live](https://lokisk1155.github.io/Run/)
+# RUN! [Live](https://lokisk1155.github.io/RunAway/)
 ### Collect all 4 coins to win! If the monster strikes you, the round will restart
   * W to Move Up 
   * S to Move Down 
